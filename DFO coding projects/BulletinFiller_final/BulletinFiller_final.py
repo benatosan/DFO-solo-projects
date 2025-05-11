@@ -1,4 +1,3 @@
-
 '''
 ##Automating GLLevels and GLForecast data entry to excel
 ##Fills table for specific lastMonth in BackPageTable.xlsx and Great Lakes Forecast yyyy.xlsx
